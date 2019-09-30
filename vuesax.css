@@ -222,6 +222,16 @@
     align-items: center;
 }
 
+.sideBtn {
+    width: 100%;
+    padding: .7em;
+    margin: 1em 0;
+    background: #6F64F8;
+    border: none;
+    border-radius: 8px;
+    color: white;
+}
+
 form.example input[type=text] {
     padding: .7em;
     font-size: 17px;
