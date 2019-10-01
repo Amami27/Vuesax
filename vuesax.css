@@ -452,10 +452,12 @@ form.example::after {
 .item .image {
     padding: 1em;
     height: 200px;
+    width: 200px;
+    margin: 0 auto;
 }
 
 .image img {
-    height: 100%;
+    max-height: 100%;
     width: 100%;
 }
 
